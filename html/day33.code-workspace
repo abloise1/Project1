@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../day33"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../day32"
+		},
+		{
+			"path": "../../day31"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project 1"
+	}
+}
